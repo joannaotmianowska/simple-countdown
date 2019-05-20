@@ -1,1 +1,1 @@
-Simple countdown with React
+Simple countdown built with React
